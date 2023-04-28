@@ -15,6 +15,7 @@
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.1",
     "next": "^13.3.1",
+    "next-progress": "^2.3.1",
     "nextra": "^2.4.2",
     "nextra-theme-blog": "^2.4.2",
     "nextra-theme-docs": "^2.4.2",
